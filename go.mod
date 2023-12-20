@@ -1,4 +1,4 @@
-module webServer2
+module github.com/yamisukii/golang-rss-aggregator
 
 go 1.18
 
